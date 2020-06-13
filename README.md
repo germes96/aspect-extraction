@@ -51,6 +51,7 @@ pip install requirements.txt
 ```
 
 2. To execute this python code, you need the 3.6GB `GoogleNews-vectors-negative300.bin` document available at : (https://github.com/mmihaltz/word2vec-GoogleNews-vectors).
+Then copy it to the `utils` folder.
 
 ```
 python parse.py -Train 1 -ds_name Laptop #for train data
