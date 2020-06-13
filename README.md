@@ -1,6 +1,10 @@
-# Aspect extraction from product reviews with Tensorflow
+# Extracting Aspects from Laptop Reviews with Tensorflow
 
 Use of recurent neural networks for the aspect extraction task
+
+## Requiement
+1. Having a basic knowledge of recurent neural networks (https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9 )
+2. Understanding the mechanics of the LSTM and GRU variants (https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
 
 ## Task
 
@@ -21,6 +25,7 @@ this O
 phone O
 
 ```
+The aspect here is: `battery life`
 
 ## Data Parsing
 In order to remove this stain, it is necessary to transform the entrances by applying pre-treatment stains. The stains applied here are: 
