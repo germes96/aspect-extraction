@@ -1,6 +1,6 @@
 # Extracting Aspects from Laptop Reviews with Tensorflow
 
-Use of recurent neural networks for the aspect extraction task
+Use of recurrent neural networks for the aspect extraction task using the `python` language and the `tensorflow` library (`keras` shell)
 
 ## Requiement
 1. Having a basic knowledge of recurent neural networks (https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks-79e5eb8049c9 )
